@@ -23,7 +23,7 @@
 <li><b>iOS App: 100</b><br> Set up an iOS app that pulls facts from dragonlfy when you search.<br><i> Languages: Objective C</i></li>
 <li><b>Android App: 100</b> <br>Same as the iOS app, but for Android.<br><i>Languages: Java</i></li>
 <li> <b>Reformat Images and Videos: 100.</b> <br>Currently images and videos don't look very good on Dragonfly. Reformat them so they look more similar to Google. <br><i> Languages: HTML, CSS, Javascript</i></li>
-<li> <b>Auto-cite Feature: 200</b> Hook up a button in the facts toolbar, so when you click on the fact an MLA format autocitation appears in the notes box.<br> <i> Languages: HTML, CSS, Javascript</i></li>
+<li> <b>Auto-cite Feature: 200</b><br> Hook up a button in the facts toolbar, so when you click on the fact an MLA format autocitation appears in the notes box.<br> <i> Languages: HTML, CSS, Javascript</i></li>
 <li> <b>Autosuggest Using Suggest.php API: 200</b>. <br>Use our suggest API and hook it up with the autosuggest dropdown menu for searches. <br><i>Langauges: HTML, CSS, Javascript, PHP</i></li>
 <li><b>Google Drive Notes: 200</b><br>Implement saving through Google drive for the notes in the notes box. <i>Langauges: Javascript </i></li>
 <li><b>iOS App Part 2: 300</b><br> We're giving you the freedom to make an epic iOS app. Create an awesome UI for the iOS app adding on to the iOS App challenge one. <br><i> Languages: Objective C</i></li>
