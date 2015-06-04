@@ -25,7 +25,7 @@
 <li> <b>Reformat Images and Videos: 100.</b> <br>Currently images and videos don't look very good on Dragonfly. Reformat them so they look more similar to Google. <br><i> Languages: HTML, CSS, Javascript</i></li>
 <li> <b>Auto-cite Feature: 200</b><br> Hook up a button in the facts toolbar, so when you click on the fact an MLA format autocitation appears in the notes box.<br> <i> Languages: HTML, CSS, Javascript</i></li>
 <li> <b>Autosuggest Using Suggest.php API: 200</b>. <br>Use our suggest API and hook it up with the autosuggest dropdown menu for searches. <br><i>Langauges: HTML, CSS, Javascript, PHP</i></li>
-<li><b>Google Drive Notes: 200</b><br>Implement saving through Google drive for the notes in the notes box. <i>Langauges: Javascript </i></li>
+<li><b>Google Drive Notes: 200</b><br>Implement saving through Google drive for the notes in the notes box. <br><i>Langauges: Javascript </i></li>
 <li><b>iOS App Part 2: 300</b><br> We're giving you the freedom to make an epic iOS app. Create an awesome UI for the iOS app adding on to the iOS App challenge one. <br><i> Languages: Objective C</i></li>
 <li><b>Android App Part 2: 300</b> <br>Same as the iOS app, but with Android.<br> <i> Languages: Java</i></li>
 <li> <b>Add Regression Algorithm for Facts: 500</b> <br>Add in a regression algorithm, that takes a minimum of 20 variables, for the facts to improve results. Then, implement that algorithm into the search page.<br> <i> Languages: Backend of your choice, HTML, CSS, Javascript</i></li>
