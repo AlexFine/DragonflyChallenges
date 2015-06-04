@@ -31,6 +31,8 @@
 <li><b>iOS App Part 2: 300</b><br> We're giving you the freedom to make an epic iOS app. Create an awesome UI for the iOS app adding on to the iOS App challenge one. <br><i> Languages: Objective C</i></li>
 <li><b>Android App Part 2: 300</b> <br>Same as the iOS app, but with Android.<br> <i> Languages: Java</i></li>
 <li> <b>Add Regression Algorithm for Facts: 500</b> <br>Add in a regression algorithm, that takes a minimum of 20 variables, for the facts to improve results. Then, implement that algorithm into the search page.<br> <i> Languages: Backend of your choice, HTML, CSS, Javascript</i></li>
+<h2>Setup</h2>
+<p>This repository is not being pushed to the main site, any changes that are made will be manually added to the server. Therefor, you might run into some problems running the code locally. If you will, this will be your first challenge. When you want to access your facts, make sure to fix it so it doesn't look for factsalexcodeday.php but rather factsection.php. Let us know if there are any other big things needed in setup when running locally. </p>
 <h2>API's</h2>
 <p><b>Suggest</b> http://dragonflysearch.com/api/suggest.php?q=query</p>
 <p><b>Search</b> http://dragonflysearch.com/api/search.php?q=query</p>
