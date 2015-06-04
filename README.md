@@ -19,6 +19,7 @@
 <h1>Challenges </h1>
 <ul>
 <li> <b>Crawl Sites for Database: 50 per site</b><br> Dragonfly needs to be pulling from more reliable sites. Add in all the facts from reliable sites to the database for 50 points per site crawled.<br><i> Languages: PHP, Python.</i> *Contact me at alex@dragonflysearch.com for more information/access to the database. </li>
+<li><b>Bug Fixes: 100-500</b><br>Bug fixes will be rewarded with between 100 and 500 points<br><i>Languages: PHP, Python, Javascript, HTML, CSS</li></li>
 <li> <b>Updated Notes Box: 100</b> <br>Update the notes box on Dragonfly so users can add features like bold, italics, underline, bullet points, etc. Also include the accompanying PHP file  to send the data to their email.<br> <i> Languages: PHP, HTML, CSS</i> </li>
 <li><b>iOS App: 100</b><br> Set up an iOS app that pulls facts from dragonlfy when you search.<br><i> Languages: Objective C</i></li>
 <li><b>Android App: 100</b> <br>Same as the iOS app, but for Android.<br><i>Languages: Java</i></li>
